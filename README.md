@@ -32,7 +32,7 @@
 
 关注后点击我的->我的UID，获取每个人的WxPusher UID
 
-![WxPusher UID](https://s1.ax1x.com/2020/09/16/w2W6H0.png)
+![WxPusher UID](https://s1.ax1x.com/2020/09/16/w2W6H0.png)   
 
 接下来你需要设置`Secret` Fork的项目->Settings->Secret->New Secret
 
